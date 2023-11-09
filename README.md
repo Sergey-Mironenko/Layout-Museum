@@ -1,6 +1,6 @@
 # Museum layout page
 
-  Landing page for Museum. Presents the museum itself, its points of interest and structure. There are anouncements of nearest exhibitions. Contains a form for sending a request for subscription.
+  Landing page for Museum. Presents the museum itself, its points of interest and events. There are anouncements of nearest exhibitions and lections. Contains a form for sending a request for subscription.
 
 # [DEMO](https://sergey-mironenko.github.io/Layout-Museum/)
 
